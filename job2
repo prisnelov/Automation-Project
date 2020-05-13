@@ -1,0 +1,6 @@
+if sudo docker ps | grep webOS
+then
+echo "already running"
+else
+sudo docker run -dit -p 8089:80 -v /myweb:/usr/local/apache/htdocs/ --name webOS httpd
+fi
