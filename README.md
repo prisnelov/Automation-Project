@@ -1,4 +1,4 @@
-#/t Under Guidence of
-#/t ░V░i░m░a░l░ ░D░a░g░a░
+# Under Guidence of
+# ░V░i░m░a░l░ ░D░a░g░a░
 # Automation-project
-#/n/n JENKINS + DOCKER + GIT + NGROK
+# JENKINS + DOCKER + GIT + NGROK
